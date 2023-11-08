@@ -1,3 +1,2 @@
 SUCCESS
-failure
-failure
+FAIL
